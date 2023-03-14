@@ -1,16 +1,31 @@
-### Hi there 👋
+Soy Diana Atobe
 
-<!--
-**diniat/diniat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FULL STACK DEVELOPER
 
-Here are some ideas to get you started:
+👩‍💻 Sobre mí :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 SPA- VerdeVolver ♻️
+
+💬 Pregúntame sobre reactJS, redux, expressJS, nodeJS
+
+🌱 Actualmente estoy aprendiendo | TypeScript | Next
+
+📚 Amo leer y aprender nuevas tecnologías y frameworks
+
+📫 Como contactarme dianatobe@gmail.com
+
+📄 Conoce mis experiencias en: https://www.linkedin.com/mwlite/in/diana-atobe
+
+
+🛠 Habilidades:
+
+
+ javascript  react  redux  nodejs  git  html5  css3 postgresql
+
+
+📫 Contáctame
+
+:
+
+  lemorles  lemorles
+
