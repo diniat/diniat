@@ -23,9 +23,5 @@ FULL STACK DEVELOPER
  javascript  react  redux  nodejs  git  html5  css3 postgresql
 
 
-📫 Contáctame
-
-:
-
-  lemorles  lemorles
+📫 Contáctame y hablemos!
 
