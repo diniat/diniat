@@ -8,9 +8,9 @@ FULL STACK DEVELOPER
 
 💬 Pregúntame sobre reactJS, redux, expressJS, nodeJS
 
-🌱 Actualmente estoy aprendiendo | TypeScript | Next
+🌱 Actualmente estoy aprendiendo | TypeScript | Next | Sass | Angular
 
-📚 Amo leer y aprender nuevas tecnologías y frameworks
+📚 Amo leer y aprender nuevas tecnologías
 
 📫 Como contactarme dianatobe@gmail.com
 
@@ -20,7 +20,7 @@ FULL STACK DEVELOPER
 🛠 Habilidades:
 
 
- javascript  react  redux  nodejs  git  html5  css3 postgresql
+ javascript  react  redux  nodejs  git  html5  css3 postgresql scrum
 
 
 📫 Contáctame y hablemos!
