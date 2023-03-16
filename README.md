@@ -14,7 +14,7 @@ FULL STACK DEVELOPER
 
 📫 Como contactarme dianatobe@gmail.com
 
-📄 Conoce mis experiencias en: https://www.linkedin.com/mwlite/in/diana-atobe
+📄 Conoce mis experiencias en: https://www.linkedin.com/in/diana-atobe
 
 
 🛠 Habilidades:
