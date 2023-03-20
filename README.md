@@ -8,7 +8,7 @@ FULL STACK DEVELOPER
 
 💬 Pregúntame sobre reactJS, redux, expressJS, nodeJS
 
-🌱 Actualmente estoy aprendiendo | TypeScript | Next | Sass | Angular
+🌱 Actualmente estoy aprendiendo | TypeScript | .Net | C# | Angular
 
 📚 Amo leer y aprender nuevas tecnologías
 
