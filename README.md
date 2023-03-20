@@ -1,6 +1,6 @@
 Soy Diana Atobe
 
-FULL STACK DEVELOPER
+FULL STACK DEVELOPER y estudiante de Analisis de Sistemas Informaticos
 
 👩‍💻 Sobre mí :
 
