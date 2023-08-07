@@ -4,11 +4,9 @@ FULL STACK DEVELOPER y ESTUDIANTE DE ANALISIS DE SISTEMAS INFORMATICOS
 
 👩‍💻 Sobre mí :
 
-🔭 SPA- VerdeVolver ♻️
+💬 Pregúntame sobre reactJS, redux, expressJS, nodeJS, next js
 
-💬 Pregúntame sobre reactJS, redux, expressJS, nodeJS
-
-🌱 Actualmente estoy aprendiendo | TypeScript | .Net | C# | Angular
+🌱 Actualmente estoy aprendiendo  React Native | C++ 
 
 📚 Amo leer y aprender nuevas tecnologías
 
@@ -20,7 +18,7 @@ FULL STACK DEVELOPER y ESTUDIANTE DE ANALISIS DE SISTEMAS INFORMATICOS
 🛠 Habilidades:
 
 
- javascript  react  redux  nodejs  git  html5  css3 postgresql scrum
+ javascript  react  redux  nodejs  git  html5  css3 postgresql scrum typescript next js
 
 
 📫 Contáctame y hablemos!
