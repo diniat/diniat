@@ -1,27 +1,18 @@
 //Personal github account
 
-Soy Diana Atobe
+My name is Diana Atobe
 
-FULL STACK DEVELOPER y ESTUDIANTE DE ANALISIS DE SISTEMAS INFORMATICOS
+FULL STACK DEVELOPER
 
-👩‍💻 Sobre mí :
+👩‍💻 About me :
+💬 Ask me about React, Next js, tRPC, React Native, Redux, ExpressJS, NodeJS, TypeScript, JavaScript
+🌱 Currently learning Java
+📚 I love reading and learning new things
+📫 Send me a message dianatobe@gmail.com
+📄 Get to know about my experiences: https://www.linkedin.com/in/diana-atobe
 
-💬 Pregúntame sobre reactJS, redux, expressJS, nodeJS, next js
+🛠 Skills:
+ typescript javascript react nextJs redux nodeJs figma tailwindCSS git html5 css3 postgresql sql scrum 
 
-🌱 Actualmente estoy aprendiendo  React Native | C++ 
-
-📚 Amo leer y aprender nuevas tecnologías
-
-📫 Como contactarme dianatobe@gmail.com
-
-📄 Conoce mis experiencias en: https://www.linkedin.com/in/diana-atobe
-
-
-🛠 Habilidades:
-
-
- javascript  react  redux  nodejs  git  html5  css3 postgresql scrum typescript next js
-
-
-📫 Contáctame y hablemos!
+📫 Let's talk!
 
