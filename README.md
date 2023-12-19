@@ -6,9 +6,13 @@ FULL STACK DEVELOPER
 
 👩‍💻 About me :
 💬 Ask me about React, Next js, tRPC, React Native, Redux, ExpressJS, NodeJS, TypeScript, JavaScript
+
 🌱 Currently learning Java
+
 📚 I love reading and learning new things
+
 📫 Send me a message dianatobe@gmail.com
+
 📄 Get to know about my experiences: https://www.linkedin.com/in/diana-atobe
 
 🛠 Skills:
